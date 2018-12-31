@@ -1,0 +1,11 @@
+/home/gerardo/DevOps/exerciseThree/bin/Debug/netcoreapp2.2/exerciseThree.deps.json
+/home/gerardo/DevOps/exerciseThree/bin/Debug/netcoreapp2.2/exerciseThree.runtimeconfig.json
+/home/gerardo/DevOps/exerciseThree/bin/Debug/netcoreapp2.2/exerciseThree.runtimeconfig.dev.json
+/home/gerardo/DevOps/exerciseThree/bin/Debug/netcoreapp2.2/exerciseThree.dll
+/home/gerardo/DevOps/exerciseThree/bin/Debug/netcoreapp2.2/exerciseThree.pdb
+/home/gerardo/DevOps/exerciseThree/obj/Debug/netcoreapp2.2/exerciseThree.csprojAssemblyReference.cache
+/home/gerardo/DevOps/exerciseThree/obj/Debug/netcoreapp2.2/exerciseThree.csproj.CoreCompileInputs.cache
+/home/gerardo/DevOps/exerciseThree/obj/Debug/netcoreapp2.2/exerciseThree.AssemblyInfoInputs.cache
+/home/gerardo/DevOps/exerciseThree/obj/Debug/netcoreapp2.2/exerciseThree.AssemblyInfo.cs
+/home/gerardo/DevOps/exerciseThree/obj/Debug/netcoreapp2.2/exerciseThree.dll
+/home/gerardo/DevOps/exerciseThree/obj/Debug/netcoreapp2.2/exerciseThree.pdb

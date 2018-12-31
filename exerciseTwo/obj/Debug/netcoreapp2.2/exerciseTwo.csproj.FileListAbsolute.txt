@@ -1,0 +1,11 @@
+/home/gerardo/DevOps/exerciseTwo/bin/Debug/netcoreapp2.2/exerciseTwo.deps.json
+/home/gerardo/DevOps/exerciseTwo/bin/Debug/netcoreapp2.2/exerciseTwo.runtimeconfig.json
+/home/gerardo/DevOps/exerciseTwo/bin/Debug/netcoreapp2.2/exerciseTwo.runtimeconfig.dev.json
+/home/gerardo/DevOps/exerciseTwo/bin/Debug/netcoreapp2.2/exerciseTwo.dll
+/home/gerardo/DevOps/exerciseTwo/bin/Debug/netcoreapp2.2/exerciseTwo.pdb
+/home/gerardo/DevOps/exerciseTwo/obj/Debug/netcoreapp2.2/exerciseTwo.csprojAssemblyReference.cache
+/home/gerardo/DevOps/exerciseTwo/obj/Debug/netcoreapp2.2/exerciseTwo.csproj.CoreCompileInputs.cache
+/home/gerardo/DevOps/exerciseTwo/obj/Debug/netcoreapp2.2/exerciseTwo.AssemblyInfoInputs.cache
+/home/gerardo/DevOps/exerciseTwo/obj/Debug/netcoreapp2.2/exerciseTwo.AssemblyInfo.cs
+/home/gerardo/DevOps/exerciseTwo/obj/Debug/netcoreapp2.2/exerciseTwo.dll
+/home/gerardo/DevOps/exerciseTwo/obj/Debug/netcoreapp2.2/exerciseTwo.pdb
